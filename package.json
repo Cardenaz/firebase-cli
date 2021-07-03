@@ -1,0 +1,19 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "cli for lulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cardenaz/firebase-cli.git"
+  },
+  "author": "William Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cardenaz/firebase-cli/issues"
+  },
+  "homepage": "https://github.com/Cardenaz/firebase-cli#readme"
+}
